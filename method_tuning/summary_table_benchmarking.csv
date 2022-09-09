@@ -1,0 +1,26 @@
+Method,Circuit,Best Loss,Computational Time
+100 Random,Downstream Activation,0.06972678,
+1k Random,Downstream Activation,0.06479619,
+10k Random,Downstream Activation,0.062044394,
+100 Random,Dual Control,0.071057717,
+1k Random,Dual Control,0.064976388,
+10k Random,Dual Control,0.064235814,
+100 Random,No Control,0.076973046,
+1k Random,No Control,0.07462814,
+10k Random,No Control,0.063138792,
+100 Random,Upstream Repression,0.121934121,
+1k Random,Upstream Repression,0.070342254,
+10k Random,Upstream Repression,0.069972928,
+Grid Search,Downstream Activation,0.090972784,
+Grid Search,Dual Control,0.06560009,
+Grid Search,Upstream Repression,0.109187127,
+Grid Search,No Control,0.125776161,
+BayesOpt,Downstream Activation,0.061690203,
+BayesOpt,Dual Control,0.064444646,
+BayesOpt,Upstream Repression,0.070092162,
+BayesOpt,No Control,0.063177124,
+100 Random,,,16.06
+1k Random,,,159.24
+10k Random,,,1682.93
+Grid Search,,,1533
+BayesOpt,,,27.05
