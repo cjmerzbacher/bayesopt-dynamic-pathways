@@ -4,6 +4,7 @@ glucaric_acid/kinetic_perturbation.csv
 glucaric_acid/kinetic_perturbation_total.csv
 glucaric_acid/growth_condition_robustness1.csv
 glucaric_acid/single_computer_files/growth_condition_robustness.csv
+glucaric_acid/single_computer_files/kinetic_perturbation_4arch.csv
 method_tuning/grid_search/dc_landscape_sundials.csv
 method_tuning/grid_search/da_landscape_sundials.csv
 method_tuning/grid_search/ur_landscape_sundials.csv
