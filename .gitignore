@@ -21,3 +21,4 @@ method_tuning/random_sampling/nc10000.csv
 method_tuning/random_sampling/ur100.csv
 method_tuning/random_sampling/ur1000.csv
 method_tuning/random_sampling/ur10000.csv
+data/glucaric_acid_kinetic_perturbation.csv
