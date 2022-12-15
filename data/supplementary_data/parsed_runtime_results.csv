@@ -1,0 +1,1387 @@
+,Model,Rates,Runtime
+0,Toy,14.17,35.0
+1,Toy,14.71,33.0
+2,Toy,16.19,30.0
+3,Toy,15.73,31.0
+4,Toy,17.06,29.0
+5,Toy,16.0,31.0
+6,Toy,17.06,29.0
+7,Toy,16.45,30.0
+8,Toy,16.78,29.0
+9,Toy,14.33,34.0
+10,Toy,16.3,30.0
+11,Toy,15.38,32.0
+12,Toy,16.93,29.0
+13,Toy,16.13,31.0
+14,Toy,17.41,28.0
+15,Toy,15.82,31.0
+16,Toy,17.02,29.0
+17,Toy,15.98,31.0
+18,Toy,16.5,30.0
+19,Toy,15.54,32.0
+20,Toy,16.83,29.0
+21,Toy,12.52,39.0
+22,Toy,15.13,33.0
+23,Toy,15.82,31.0
+24,Toy,15.48,32.0
+25,Toy,15.73,31.0
+26,Toy,16.48,30.0
+27,Toy,16.29,30.0
+28,Toy,15.66,31.0
+29,Toy,15.08,33.0
+30,Toy,17.19,29.0
+31,Toy,16.18,30.0
+32,Toy,15.83,31.0
+33,Toy,13.63,36.0
+34,Toy,15.55,32.0
+35,Toy,13.76,36.0
+36,Toy,14.25,35.0
+37,Toy,13.96,35.0
+38,Toy,16.76,29.0
+39,Toy,13.53,36.0
+40,Toy,15.33,32.0
+41,Toy,13.36,37.0
+42,Toy,13.39,37.0
+43,Toy,10.64,46.0
+44,Toy,13.45,37.0
+45,Toy,12.83,38.0
+46,Toy,15.75,31.0
+47,Toy,15.0,33.0
+48,Toy,14.05,35.0
+49,Toy,13.24,37.0
+50,Toy,14.84,33.0
+51,Toy,15.4,32.0
+52,Toy,15.89,31.0
+53,Toy,13.07,38.0
+54,Toy,15.64,31.0
+55,Toy,15.36,32.0
+56,Toy,14.19,35.0
+57,Toy,14.95,33.0
+58,Toy,13.89,35.0
+59,Toy,13.21,37.0
+60,Toy,13.26,37.0
+61,Toy,12.7,39.0
+62,Toy,14.94,33.0
+63,Toy,13.96,35.0
+64,Toy,13.49,37.0
+65,Toy,12.99,38.0
+66,Toy,11.52,43.0
+67,Toy,15.14,33.0
+68,Toy,15.11,33.0
+69,Toy,15.13,33.0
+70,Toy,16.31,30.0
+71,Toy,13.23,37.0
+72,Toy,12.32,40.0
+73,Toy,11.81,42.0
+74,Toy,12.67,39.0
+75,Toy,12.87,38.0
+76,Toy,13.58,36.0
+77,Toy,14.78,33.0
+78,Toy,14.37,34.0
+79,Toy,14.6,34.0
+80,Toy,15.02,33.0
+81,Toy,14.29,34.0
+82,Toy,15.57,32.0
+83,Toy,15.55,32.0
+84,Toy,15.61,32.0
+85,Toy,12.37,40.0
+86,Toy,13.97,35.0
+87,Toy,13.36,37.0
+88,Toy,14.57,34.0
+89,Toy,14.46,34.0
+90,Toy,15.87,31.0
+91,Toy,14.98,33.0
+92,Toy,16.12,31.0
+93,Toy,14.33,34.0
+94,Toy,15.15,33.0
+95,Toy,15.2,32.0
+96,Toy,14.92,33.0
+97,Toy,13.72,36.0
+98,Toy,15.54,32.0
+99,Toy,13.79,36.0
+100,Toy,14.14,35.0
+101,Toy,13.87,36.0
+102,Toy,15.72,31.0
+103,Toy,15.3,32.0
+104,Toy,16.28,30.0
+105,Toy,13.98,35.0
+106,Toy,15.51,32.0
+107,Toy,15.06,33.0
+108,Toy,15.98,31.0
+109,Toy,15.09,33.0
+110,Toy,16.45,30.0
+111,Toy,16.48,30.0
+112,Toy,16.58,30.0
+113,Toy,14.85,33.0
+114,Toy,16.47,30.0
+115,Toy,15.37,32.0
+116,Toy,16.0,31.0
+117,Toy,13.95,35.0
+118,Toy,16.7,29.0
+119,Toy,15.42,32.0
+120,Toy,15.96,31.0
+121,Toy,15.42,32.0
+122,Toy,16.73,29.0
+123,Toy,15.52,32.0
+124,Toy,16.01,31.0
+125,Toy,15.45,32.0
+126,Toy,16.43,30.0
+127,Toy,15.56,32.0
+128,Toy,13.79,36.0
+129,Toy,13.0,38.0
+130,Toy,15.08,33.0
+131,Toy,13.63,36.0
+132,Toy,15.09,33.0
+133,Toy,13.28,37.0
+134,Toy,14.39,34.0
+135,Toy,14.69,34.0
+136,Toy,15.43,32.0
+137,Toy,15.28,32.0
+138,Toy,15.81,31.0
+139,Toy,13.62,36.0
+140,Toy,13.36,37.0
+141,Toy,14.58,34.0
+142,Toy,13.21,37.0
+143,Toy,14.6,34.0
+144,Toy,14.68,34.0
+145,Toy,13.03,38.0
+146,Toy,13.2,37.0
+147,Toy,14.16,35.0
+148,Toy,11.01,45.0
+149,Toy,12.6,39.0
+150,Toy,13.83,36.0
+151,Toy,13.77,36.0
+152,Toy,13.61,36.0
+153,Toy,13.05,38.0
+154,Toy,11.95,41.0
+155,Toy,13.26,37.0
+156,Toy,14.02,35.0
+157,Toy,13.09,38.0
+158,Toy,14.22,35.0
+159,Toy,14.17,35.0
+160,Toy,13.64,36.0
+161,Toy,13.27,37.0
+162,Toy,15.19,32.0
+163,Toy,14.88,33.0
+164,Toy,15.25,32.0
+165,Toy,14.37,34.0
+166,Toy,15.68,31.0
+167,Toy,14.47,34.0
+168,Toy,15.24,32.0
+169,Toy,14.35,34.0
+170,Toy,15.93,31.0
+171,Toy,14.78,33.0
+172,Toy,15.42,32.0
+173,Toy,13.65,36.0
+174,Toy,14.87,33.0
+175,Toy,14.23,35.0
+176,Toy,12.7,39.0
+177,Toy,13.07,38.0
+178,Toy,14.97,33.0
+179,Toy,14.23,35.0
+180,Toy,12.55,39.0
+181,Toy,13.74,36.0
+182,Toy,13.44,37.0
+183,Toy,12.77,39.0
+184,Toy,13.25,37.0
+185,Toy,13.92,35.0
+186,Toy,15.05,33.0
+187,Toy,12.19,41.0
+188,Toy,14.59,34.0
+189,Toy,11.46,43.0
+190,Toy,11.94,41.0
+191,Toy,13.43,37.0
+192,Toy,14.48,34.0
+193,Toy,12.3,40.0
+194,Toy,14.7,34.0
+195,Toy,13.09,38.0
+196,Toy,13.95,35.0
+197,Toy,10.24,48.0
+198,Toy,12.79,39.0
+199,Toy,13.95,35.0
+200,Toy,15.24,32.0
+201,Toy,13.98,35.0
+202,Toy,13.67,36.0
+203,Toy,15.11,33.0
+204,Toy,12.47,40.0
+205,Toy,12.37,40.0
+206,Toy,14.9,33.0
+207,Toy,13.96,35.0
+208,Toy,15.41,32.0
+209,Toy,14.3,34.0
+210,Toy,14.89,33.0
+211,Toy,14.48,34.0
+212,Toy,14.99,33.0
+213,Toy,14.01,35.0
+214,Toy,15.84,31.0
+215,Toy,14.34,34.0
+216,Toy,15.14,33.0
+217,Toy,14.17,35.0
+218,Toy,15.16,32.0
+219,Toy,14.83,33.0
+220,Toy,14.98,33.0
+221,Toy,13.53,36.0
+222,Toy,14.25,35.0
+223,Toy,13.35,37.0
+224,Toy,14.28,35.0
+225,Toy,13.06,38.0
+226,Toy,13.99,35.0
+227,Toy,14.31,34.0
+228,Toy,15.33,32.0
+229,Toy,13.94,35.0
+230,Toy,16.22,30.0
+231,Toy,15.13,33.0
+232,Toy,15.44,32.0
+233,Toy,15.3,32.0
+234,Toy,16.52,30.0
+235,Toy,15.73,31.0
+236,Toy,15.54,32.0
+237,Toy,14.42,34.0
+238,Toy,16.11,31.0
+239,Toy,15.72,31.0
+240,Toy,16.17,30.0
+241,Toy,14.7,34.0
+242,Toy,16.67,30.0
+243,Toy,15.68,31.0
+244,Toy,16.47,30.0
+245,Toy,14.26,35.0
+246,Toy,15.97,31.0
+247,Toy,15.72,31.0
+248,Toy,15.47,32.0
+249,Toy,14.44,34.0
+250,Toy,15.08,33.0
+251,Toy,15.19,32.0
+252,Toy,15.11,33.0
+253,Toy,14.69,34.0
+254,Toy,14.29,34.0
+255,Toy,14.38,34.0
+256,Toy,14.48,34.0
+257,Toy,13.63,36.0
+258,Toy,15.09,33.0
+259,Toy,14.03,35.0
+260,Toy,13.84,36.0
+261,Toy,12.73,39.0
+262,Toy,15.22,32.0
+263,Toy,14.83,33.0
+264,Toy,15.43,32.0
+265,Toy,14.55,34.0
+266,Toy,15.75,31.0
+267,Toy,14.27,35.0
+268,Toy,14.85,33.0
+269,Toy,13.34,37.0
+270,Toy,15.33,32.0
+271,Toy,14.04,35.0
+272,Toy,15.22,32.0
+273,Toy,13.09,38.0
+274,Toy,13.16,37.0
+275,Toy,10.26,48.0
+276,Toy,9.49,52.0
+277,Toy,10.73,46.0
+278,Toy,12.13,41.0
+279,Toy,11.04,45.0
+280,Toy,11.06,45.0
+281,Toy,9.25,54.0
+282,Toy,11.35,44.0
+283,Toy,13.28,37.0
+284,Toy,12.07,41.0
+285,Toy,12.55,39.0
+286,Toy,14.18,35.0
+287,Toy,13.89,35.0
+288,Toy,15.57,32.0
+289,Toy,14.76,33.0
+290,Toy,15.98,31.0
+291,Toy,14.22,35.0
+292,Toy,15.4,32.0
+293,Toy,10.59,47.0
+294,Toy,14.28,35.0
+295,Toy,13.62,36.0
+296,Toy,12.93,38.0
+297,Toy,13.08,38.0
+298,Toy,13.49,37.0
+299,Toy,15.01,33.0
+300,Toy,14.62,34.0
+301,Toy,14.09,35.0
+302,Toy,16.01,31.0
+303,Toy,14.61,34.0
+304,Toy,15.33,32.0
+305,Toy,15.03,33.0
+306,Toy,12.6,39.0
+307,Toy,15.28,32.0
+308,Toy,14.24,35.0
+309,Toy,11.96,41.0
+310,Toy,14.27,35.0
+311,Toy,12.77,39.0
+312,Toy,12.39,40.0
+313,Toy,12.07,41.0
+314,Toy,14.28,35.0
+315,Toy,13.45,37.0
+316,Toy,13.77,36.0
+317,Toy,13.91,35.0
+318,Toy,14.8,33.0
+319,Toy,14.2,35.0
+320,Toy,12.44,40.0
+321,Toy,11.16,44.0
+322,Toy,13.32,37.0
+323,Toy,14.81,33.0
+324,Toy,15.28,32.0
+325,Toy,12.3,40.0
+326,Toy,15.3,32.0
+327,Toy,15.52,32.0
+328,Toy,16.0,31.0
+329,Toy,14.54,34.0
+330,Toy,16.45,30.0
+331,Toy,15.78,31.0
+332,Toy,15.92,31.0
+333,Toy,14.47,34.0
+334,Toy,16.5,30.0
+335,Toy,15.61,32.0
+336,Toy,16.22,30.0
+337,Toy,14.98,33.0
+338,Toy,16.72,29.0
+339,Toy,16.61,30.0
+340,Toy,16.1,31.0
+341,Toy,14.78,33.0
+342,Toy,16.57,30.0
+343,Toy,15.18,32.0
+344,Toy,15.36,32.0
+345,Toy,14.33,34.0
+346,Toy,15.68,31.0
+347,Toy,15.59,32.0
+348,Toy,15.13,33.0
+349,Toy,13.62,36.0
+350,Toy,14.2,35.0
+351,Toy,12.22,40.0
+352,Toy,11.93,41.0
+353,Toy,12.26,40.0
+354,Toy,13.21,37.0
+355,Toy,13.83,36.0
+356,Toy,14.55,34.0
+357,Toy,13.86,36.0
+358,Toy,15.5,32.0
+359,Toy,15.03,33.0
+360,Toy,16.02,31.0
+361,Toy,15.48,32.0
+362,Toy,16.78,29.0
+363,Toy,15.9,31.0
+364,Toy,16.66,30.0
+365,Toy,15.72,31.0
+366,Toy,16.66,30.0
+367,Toy,16.42,30.0
+368,Toy,16.43,30.0
+369,Toy,15.49,32.0
+370,Toy,16.85,29.0
+371,Toy,15.1,33.0
+372,Toy,16.36,30.0
+373,Toy,15.34,32.0
+374,Toy,16.82,29.0
+375,Toy,16.34,30.0
+376,Toy,16.8,29.0
+377,Toy,15.4,32.0
+378,Toy,16.53,30.0
+379,Toy,15.8,31.0
+380,Toy,16.03,31.0
+381,Toy,14.63,34.0
+382,Toy,16.5,30.0
+383,Toy,15.66,31.0
+384,Toy,16.48,30.0
+385,Toy,15.67,31.0
+386,Toy,16.72,29.0
+387,Toy,15.79,31.0
+388,Toy,16.55,30.0
+389,Toy,15.55,32.0
+390,Toy,16.89,29.0
+391,Toy,16.09,31.0
+392,Toy,16.26,30.0
+393,Toy,15.48,32.0
+394,Toy,16.65,30.0
+395,Toy,16.11,31.0
+396,Toy,16.49,30.0
+397,Toy,14.99,33.0
+398,Toy,16.64,30.0
+399,Toy,15.78,31.0
+0,Glucaric Acid,24.59,40.0
+1,Glucaric Acid,28.27,35.0
+2,Glucaric Acid,26.64,37.0
+3,Glucaric Acid,26.55,37.0
+4,Glucaric Acid,26.79,37.0
+5,Glucaric Acid,26.36,37.0
+6,Glucaric Acid,24.34,41.0
+7,Glucaric Acid,23.64,42.0
+8,Glucaric Acid,21.48,46.0
+9,Glucaric Acid,26.42,37.0
+10,Glucaric Acid,28.19,35.0
+11,Glucaric Acid,28.02,35.0
+12,Glucaric Acid,22.36,44.0
+13,Glucaric Acid,24.71,40.0
+14,Glucaric Acid,21.75,45.0
+15,Glucaric Acid,26.35,37.0
+16,Glucaric Acid,25.03,39.0
+17,Glucaric Acid,23.98,41.0
+18,Glucaric Acid,19.34,51.0
+19,Glucaric Acid,19.87,50.0
+20,Glucaric Acid,23.26,42.0
+21,Glucaric Acid,26.7,37.0
+22,Glucaric Acid,26.71,37.0
+23,Glucaric Acid,30.82,32.0
+24,Glucaric Acid,27.49,36.0
+25,Glucaric Acid,24.64,40.0
+26,Glucaric Acid,20.75,48.0
+27,Glucaric Acid,20.74,48.0
+28,Glucaric Acid,23.31,42.0
+29,Glucaric Acid,25.99,38.0
+30,Glucaric Acid,27.77,36.0
+31,Glucaric Acid,25.55,39.0
+32,Glucaric Acid,24.81,40.0
+33,Glucaric Acid,26.49,37.0
+34,Glucaric Acid,21.49,46.0
+35,Glucaric Acid,23.13,43.0
+36,Glucaric Acid,25.62,39.0
+37,Glucaric Acid,22.99,43.0
+38,Glucaric Acid,24.69,40.0
+39,Glucaric Acid,25.07,39.0
+40,Glucaric Acid,26.62,37.0
+41,Glucaric Acid,27.5,36.0
+42,Glucaric Acid,26.69,37.0
+43,Glucaric Acid,25.77,38.0
+44,Glucaric Acid,24.4,40.0
+45,Glucaric Acid,25.58,39.0
+46,Glucaric Acid,26.02,38.0
+47,Glucaric Acid,25.63,39.0
+48,Glucaric Acid,27.5,36.0
+49,Glucaric Acid,26.78,37.0
+50,Glucaric Acid,26.75,37.0
+51,Glucaric Acid,26.0,38.0
+52,Glucaric Acid,25.61,39.0
+53,Glucaric Acid,26.22,38.0
+54,Glucaric Acid,21.52,46.0
+55,Glucaric Acid,23.71,42.0
+56,Glucaric Acid,23.96,41.0
+57,Glucaric Acid,27.01,37.0
+58,Glucaric Acid,24.87,40.0
+59,Glucaric Acid,23.71,42.0
+60,Glucaric Acid,24.46,40.0
+61,Glucaric Acid,27.56,36.0
+62,Glucaric Acid,25.96,38.0
+63,Glucaric Acid,23.15,43.0
+64,Glucaric Acid,23.81,41.0
+65,Glucaric Acid,22.65,44.0
+66,Glucaric Acid,21.7,46.0
+67,Glucaric Acid,24.1,41.0
+68,Glucaric Acid,21.32,46.0
+69,Glucaric Acid,23.98,41.0
+70,Glucaric Acid,23.32,42.0
+71,Glucaric Acid,16.03,62.0
+72,Glucaric Acid,19.77,50.0
+73,Glucaric Acid,23.24,43.0
+74,Glucaric Acid,24.88,40.0
+75,Glucaric Acid,21.42,46.0
+76,Glucaric Acid,21.93,45.0
+77,Glucaric Acid,24.19,41.0
+78,Glucaric Acid,25.53,39.0
+79,Glucaric Acid,21.0,47.0
+80,Glucaric Acid,23.73,42.0
+81,Glucaric Acid,24.39,41.0
+82,Glucaric Acid,23.66,42.0
+83,Glucaric Acid,20.23,49.0
+84,Glucaric Acid,20.63,48.0
+85,Glucaric Acid,21.67,46.0
+86,Glucaric Acid,22.42,44.0
+87,Glucaric Acid,21.15,47.0
+88,Glucaric Acid,20.88,47.0
+89,Glucaric Acid,18.7,53.0
+90,Glucaric Acid,21.89,45.0
+91,Glucaric Acid,23.0,43.0
+92,Glucaric Acid,24.44,40.0
+93,Glucaric Acid,22.98,43.0
+94,Glucaric Acid,19.9,50.0
+95,Glucaric Acid,19.51,51.0
+96,Glucaric Acid,19.09,52.0
+97,Glucaric Acid,22.47,44.0
+98,Glucaric Acid,23.72,42.0
+99,Glucaric Acid,21.26,47.0
+100,Glucaric Acid,22.48,44.0
+101,Glucaric Acid,24.87,40.0
+102,Glucaric Acid,23.6,42.0
+103,Glucaric Acid,23.4,42.0
+104,Glucaric Acid,20.6,48.0
+105,Glucaric Acid,21.17,47.0
+106,Glucaric Acid,22.08,45.0
+107,Glucaric Acid,23.14,43.0
+108,Glucaric Acid,24.31,41.0
+109,Glucaric Acid,25.03,39.0
+110,Glucaric Acid,24.86,40.0
+111,Glucaric Acid,23.54,42.0
+112,Glucaric Acid,23.67,42.0
+113,Glucaric Acid,24.19,41.0
+114,Glucaric Acid,24.51,40.0
+115,Glucaric Acid,21.59,46.0
+116,Glucaric Acid,24.15,41.0
+117,Glucaric Acid,23.75,42.0
+118,Glucaric Acid,24.16,41.0
+119,Glucaric Acid,23.59,42.0
+120,Glucaric Acid,23.69,42.0
+121,Glucaric Acid,24.82,40.0
+122,Glucaric Acid,24.67,40.0
+123,Glucaric Acid,24.86,40.0
+124,Glucaric Acid,26.76,37.0
+125,Glucaric Acid,25.57,39.0
+126,Glucaric Acid,24.42,40.0
+127,Glucaric Acid,25.45,39.0
+128,Glucaric Acid,25.86,38.0
+129,Glucaric Acid,25.12,39.0
+130,Glucaric Acid,24.19,41.0
+131,Glucaric Acid,24.86,40.0
+132,Glucaric Acid,26.68,37.0
+133,Glucaric Acid,25.03,39.0
+134,Glucaric Acid,24.98,40.0
+135,Glucaric Acid,25.52,39.0
+136,Glucaric Acid,26.09,38.0
+137,Glucaric Acid,22.94,43.0
+138,Glucaric Acid,20.78,48.0
+139,Glucaric Acid,23.33,42.0
+140,Glucaric Acid,22.01,45.0
+141,Glucaric Acid,23.69,42.0
+142,Glucaric Acid,21.08,47.0
+143,Glucaric Acid,23.29,42.0
+144,Glucaric Acid,25.01,39.0
+145,Glucaric Acid,25.11,39.0
+146,Glucaric Acid,20.93,47.0
+147,Glucaric Acid,21.16,47.0
+148,Glucaric Acid,22.08,45.0
+149,Glucaric Acid,22.37,44.0
+150,Glucaric Acid,20.81,48.0
+151,Glucaric Acid,17.62,56.0
+152,Glucaric Acid,20.85,47.0
+153,Glucaric Acid,20.78,48.0
+154,Glucaric Acid,21.59,46.0
+155,Glucaric Acid,22.15,45.0
+156,Glucaric Acid,17.98,55.0
+157,Glucaric Acid,21.45,46.0
+158,Glucaric Acid,22.93,43.0
+159,Glucaric Acid,21.95,45.0
+160,Glucaric Acid,20.91,47.0
+161,Glucaric Acid,21.97,45.0
+162,Glucaric Acid,23.86,41.0
+163,Glucaric Acid,22.58,44.0
+164,Glucaric Acid,22.8,43.0
+165,Glucaric Acid,23.91,41.0
+166,Glucaric Acid,23.82,41.0
+167,Glucaric Acid,24.34,41.0
+168,Glucaric Acid,22.99,43.0
+169,Glucaric Acid,23.48,42.0
+170,Glucaric Acid,24.3,41.0
+171,Glucaric Acid,22.49,44.0
+172,Glucaric Acid,21.84,45.0
+173,Glucaric Acid,19.86,50.0
+174,Glucaric Acid,23.34,42.0
+175,Glucaric Acid,22.05,45.0
+176,Glucaric Acid,19.34,51.0
+177,Glucaric Acid,22.73,43.0
+178,Glucaric Acid,21.16,47.0
+179,Glucaric Acid,19.83,50.0
+180,Glucaric Acid,21.43,46.0
+181,Glucaric Acid,21.57,46.0
+182,Glucaric Acid,21.81,45.0
+183,Glucaric Acid,21.12,47.0
+184,Glucaric Acid,17.48,57.0
+185,Glucaric Acid,20.77,48.0
+186,Glucaric Acid,22.7,44.0
+187,Glucaric Acid,21.8,45.0
+188,Glucaric Acid,20.16,49.0
+189,Glucaric Acid,19.16,52.0
+190,Glucaric Acid,18.93,52.0
+191,Glucaric Acid,22.11,45.0
+192,Glucaric Acid,22.57,44.0
+193,Glucaric Acid,22.13,45.0
+194,Glucaric Acid,23.5,42.0
+195,Glucaric Acid,20.93,47.0
+196,Glucaric Acid,19.89,50.0
+197,Glucaric Acid,21.68,46.0
+198,Glucaric Acid,24.29,41.0
+199,Glucaric Acid,24.13,41.0
+200,Glucaric Acid,21.81,45.0
+201,Glucaric Acid,23.02,43.0
+202,Glucaric Acid,24.51,40.0
+203,Glucaric Acid,23.2,43.0
+204,Glucaric Acid,22.31,44.0
+205,Glucaric Acid,23.12,43.0
+206,Glucaric Acid,23.56,42.0
+207,Glucaric Acid,23.14,43.0
+208,Glucaric Acid,22.19,45.0
+209,Glucaric Acid,22.08,45.0
+210,Glucaric Acid,21.93,45.0
+211,Glucaric Acid,22.45,44.0
+212,Glucaric Acid,20.06,49.0
+213,Glucaric Acid,21.46,46.0
+214,Glucaric Acid,24.22,41.0
+215,Glucaric Acid,24.04,41.0
+216,Glucaric Acid,22.81,43.0
+217,Glucaric Acid,24.72,40.0
+218,Glucaric Acid,26.09,38.0
+219,Glucaric Acid,25.07,39.0
+220,Glucaric Acid,23.11,43.0
+221,Glucaric Acid,24.78,40.0
+222,Glucaric Acid,25.71,38.0
+223,Glucaric Acid,25.28,39.0
+224,Glucaric Acid,23.51,42.0
+225,Glucaric Acid,25.53,39.0
+226,Glucaric Acid,26.81,37.0
+227,Glucaric Acid,25.45,39.0
+228,Glucaric Acid,23.65,42.0
+229,Glucaric Acid,24.69,40.0
+230,Glucaric Acid,24.75,40.0
+231,Glucaric Acid,24.06,41.0
+232,Glucaric Acid,22.42,44.0
+233,Glucaric Acid,23.31,42.0
+234,Glucaric Acid,23.77,42.0
+235,Glucaric Acid,21.65,46.0
+236,Glucaric Acid,21.7,46.0
+237,Glucaric Acid,22.3,44.0
+238,Glucaric Acid,23.59,42.0
+239,Glucaric Acid,21.49,46.0
+240,Glucaric Acid,21.19,47.0
+241,Glucaric Acid,22.92,43.0
+242,Glucaric Acid,24.23,41.0
+243,Glucaric Acid,24.4,40.0
+244,Glucaric Acid,23.28,42.0
+245,Glucaric Acid,23.03,43.0
+246,Glucaric Acid,23.93,41.0
+247,Glucaric Acid,22.24,44.0
+248,Glucaric Acid,22.2,45.0
+249,Glucaric Acid,22.66,44.0
+250,Glucaric Acid,22.22,45.0
+251,Glucaric Acid,17.47,57.0
+252,Glucaric Acid,14.0,71.0
+253,Glucaric Acid,17.91,55.0
+254,Glucaric Acid,18.83,53.0
+255,Glucaric Acid,17.17,58.0
+256,Glucaric Acid,15.33,65.0
+257,Glucaric Acid,18.02,55.0
+258,Glucaric Acid,20.5,48.0
+259,Glucaric Acid,20.53,48.0
+260,Glucaric Acid,20.07,49.0
+261,Glucaric Acid,23.61,42.0
+262,Glucaric Acid,24.93,40.0
+263,Glucaric Acid,24.47,40.0
+264,Glucaric Acid,22.14,45.0
+265,Glucaric Acid,18.68,53.0
+266,Glucaric Acid,21.84,45.0
+267,Glucaric Acid,20.85,47.0
+268,Glucaric Acid,20.42,48.0
+269,Glucaric Acid,20.84,47.0
+270,Glucaric Acid,24.63,40.0
+271,Glucaric Acid,23.11,43.0
+272,Glucaric Acid,22.73,43.0
+273,Glucaric Acid,23.83,41.0
+274,Glucaric Acid,24.8,40.0
+275,Glucaric Acid,22.16,45.0
+276,Glucaric Acid,21.41,46.0
+277,Glucaric Acid,22.27,44.0
+278,Glucaric Acid,21.36,46.0
+279,Glucaric Acid,21.74,46.0
+280,Glucaric Acid,18.27,54.0
+281,Glucaric Acid,19.16,52.0
+282,Glucaric Acid,22.12,45.0
+283,Glucaric Acid,20.66,48.0
+284,Glucaric Acid,21.81,45.0
+285,Glucaric Acid,22.47,44.0
+286,Glucaric Acid,23.23,43.0
+287,Glucaric Acid,24.34,41.0
+288,Glucaric Acid,25.71,38.0
+289,Glucaric Acid,25.42,39.0
+290,Glucaric Acid,23.74,42.0
+291,Glucaric Acid,25.15,39.0
+292,Glucaric Acid,25.64,39.0
+293,Glucaric Acid,25.78,38.0
+294,Glucaric Acid,24.72,40.0
+295,Glucaric Acid,25.26,39.0
+296,Glucaric Acid,26.41,37.0
+297,Glucaric Acid,25.29,39.0
+298,Glucaric Acid,24.0,41.0
+299,Glucaric Acid,23.84,41.0
+300,Glucaric Acid,24.7,40.0
+301,Glucaric Acid,24.06,41.0
+302,Glucaric Acid,23.26,42.0
+303,Glucaric Acid,22.37,44.0
+304,Glucaric Acid,22.57,44.0
+305,Glucaric Acid,18.85,53.0
+306,Glucaric Acid,18.59,53.0
+307,Glucaric Acid,19.81,50.0
+308,Glucaric Acid,22.71,44.0
+309,Glucaric Acid,22.62,44.0
+310,Glucaric Acid,22.58,44.0
+311,Glucaric Acid,23.75,42.0
+312,Glucaric Acid,26.34,37.0
+313,Glucaric Acid,25.75,38.0
+314,Glucaric Acid,25.1,39.0
+315,Glucaric Acid,25.31,39.0
+316,Glucaric Acid,26.9,37.0
+317,Glucaric Acid,24.96,40.0
+318,Glucaric Acid,24.27,41.0
+319,Glucaric Acid,25.27,39.0
+320,Glucaric Acid,26.28,38.0
+321,Glucaric Acid,25.0,39.0
+322,Glucaric Acid,25.02,39.0
+323,Glucaric Acid,25.5,39.0
+324,Glucaric Acid,26.96,37.0
+325,Glucaric Acid,26.84,37.0
+326,Glucaric Acid,25.02,39.0
+327,Glucaric Acid,25.69,38.0
+328,Glucaric Acid,26.07,38.0
+329,Glucaric Acid,25.24,39.0
+330,Glucaric Acid,24.48,40.0
+331,Glucaric Acid,25.58,39.0
+332,Glucaric Acid,26.84,37.0
+333,Glucaric Acid,25.19,39.0
+334,Glucaric Acid,24.67,40.0
+335,Glucaric Acid,25.87,38.0
+336,Glucaric Acid,26.72,37.0
+337,Glucaric Acid,25.75,38.0
+338,Glucaric Acid,23.75,42.0
+339,Glucaric Acid,25.48,39.0
+340,Glucaric Acid,26.35,37.0
+341,Glucaric Acid,25.82,38.0
+342,Glucaric Acid,24.19,41.0
+343,Glucaric Acid,25.19,39.0
+344,Glucaric Acid,31.33,31.0
+345,Glucaric Acid,34.16,29.0
+346,Glucaric Acid,31.95,31.0
+347,Glucaric Acid,32.05,31.0
+348,Glucaric Acid,34.38,29.0
+349,Glucaric Acid,33.76,29.0
+350,Glucaric Acid,32.13,31.0
+351,Glucaric Acid,33.08,30.0
+352,Glucaric Acid,34.57,28.0
+353,Glucaric Acid,34.19,29.0
+354,Glucaric Acid,32.31,30.0
+355,Glucaric Acid,33.85,29.0
+356,Glucaric Acid,35.43,28.0
+357,Glucaric Acid,35.08,28.0
+358,Glucaric Acid,32.89,30.0
+359,Glucaric Acid,34.26,29.0
+360,Glucaric Acid,35.33,28.0
+361,Glucaric Acid,32.23,31.0
+362,Glucaric Acid,33.02,30.0
+363,Glucaric Acid,34.18,29.0
+364,Glucaric Acid,35.65,28.0
+365,Glucaric Acid,33.91,29.0
+366,Glucaric Acid,32.35,30.0
+367,Glucaric Acid,34.28,29.0
+368,Glucaric Acid,34.93,28.0
+369,Glucaric Acid,35.01,28.0
+370,Glucaric Acid,33.0,30.0
+371,Glucaric Acid,34.27,29.0
+372,Glucaric Acid,35.91,27.0
+373,Glucaric Acid,34.76,28.0
+374,Glucaric Acid,33.3,30.0
+375,Glucaric Acid,33.8,29.0
+376,Glucaric Acid,33.69,29.0
+377,Glucaric Acid,35.06,28.0
+378,Glucaric Acid,34.25,29.0
+379,Glucaric Acid,34.48,29.0
+380,Glucaric Acid,35.65,28.0
+381,Glucaric Acid,34.23,29.0
+382,Glucaric Acid,33.39,29.0
+383,Glucaric Acid,34.93,28.0
+384,Glucaric Acid,36.16,27.0
+385,Glucaric Acid,34.86,28.0
+0,Fatty Acid,248.35,2.0
+1,Fatty Acid,256.95,1.0
+2,Fatty Acid,258.46,1.0
+3,Fatty Acid,261.41,1.0
+4,Fatty Acid,261.25,1.0
+5,Fatty Acid,211.33,2.0
+6,Fatty Acid,252.68,1.0
+7,Fatty Acid,247.7,2.0
+8,Fatty Acid,233.37,2.0
+9,Fatty Acid,253.17,1.0
+10,Fatty Acid,221.56,2.0
+11,Fatty Acid,226.96,2.0
+12,Fatty Acid,248.15,2.0
+13,Fatty Acid,243.58,2.0
+14,Fatty Acid,248.81,2.0
+15,Fatty Acid,237.02,2.0
+16,Fatty Acid,230.29,2.0
+17,Fatty Acid,249.92,2.0
+18,Fatty Acid,214.17,2.0
+19,Fatty Acid,255.34,1.0
+20,Fatty Acid,241.43,2.0
+21,Fatty Acid,238.47,2.0
+22,Fatty Acid,236.82,2.0
+23,Fatty Acid,235.19,2.0
+24,Fatty Acid,254.11,1.0
+25,Fatty Acid,256.6,1.0
+26,Fatty Acid,257.28,1.0
+27,Fatty Acid,255.78,1.0
+28,Fatty Acid,255.99,1.0
+29,Fatty Acid,256.64,1.0
+30,Fatty Acid,223.75,2.0
+31,Fatty Acid,257.3,1.0
+32,Fatty Acid,256.62,1.0
+33,Fatty Acid,256.86,1.0
+34,Fatty Acid,255.27,1.0
+35,Fatty Acid,257.63,1.0
+36,Fatty Acid,256.15,1.0
+37,Fatty Acid,255.77,1.0
+38,Fatty Acid,257.51,1.0
+39,Fatty Acid,256.14,1.0
+40,Fatty Acid,256.83,1.0
+41,Fatty Acid,255.97,1.0
+42,Fatty Acid,235.19,2.0
+43,Fatty Acid,257.14,1.0
+44,Fatty Acid,255.72,1.0
+45,Fatty Acid,249.8,2.0
+46,Fatty Acid,255.34,1.0
+47,Fatty Acid,256.55,1.0
+48,Fatty Acid,257.77,1.0
+49,Fatty Acid,256.57,1.0
+50,Fatty Acid,256.27,1.0
+51,Fatty Acid,256.76,1.0
+52,Fatty Acid,257.17,1.0
+53,Fatty Acid,255.76,1.0
+54,Fatty Acid,257.66,1.0
+55,Fatty Acid,230.64,2.0
+56,Fatty Acid,257.05,1.0
+57,Fatty Acid,242.98,2.0
+58,Fatty Acid,241.33,2.0
+59,Fatty Acid,248.01,2.0
+60,Fatty Acid,253.06,1.0
+61,Fatty Acid,253.79,1.0
+62,Fatty Acid,239.77,2.0
+63,Fatty Acid,249.53,2.0
+64,Fatty Acid,256.81,1.0
+65,Fatty Acid,258.8,1.0
+66,Fatty Acid,259.3,1.0
+67,Fatty Acid,223.07,2.0
+68,Fatty Acid,258.8,1.0
+69,Fatty Acid,257.61,1.0
+70,Fatty Acid,258.43,1.0
+71,Fatty Acid,259.29,1.0
+72,Fatty Acid,259.35,1.0
+73,Fatty Acid,259.56,1.0
+74,Fatty Acid,258.84,1.0
+75,Fatty Acid,259.04,1.0
+76,Fatty Acid,258.82,1.0
+77,Fatty Acid,258.44,1.0
+78,Fatty Acid,258.97,1.0
+79,Fatty Acid,236.76,2.0
+80,Fatty Acid,259.94,1.0
+81,Fatty Acid,258.94,1.0
+82,Fatty Acid,260.27,1.0
+83,Fatty Acid,259.75,1.0
+84,Fatty Acid,258.88,1.0
+85,Fatty Acid,259.16,1.0
+86,Fatty Acid,256.68,1.0
+87,Fatty Acid,260.06,1.0
+88,Fatty Acid,257.94,1.0
+89,Fatty Acid,258.31,1.0
+90,Fatty Acid,258.6,1.0
+91,Fatty Acid,259.08,1.0
+92,Fatty Acid,236.55,2.0
+93,Fatty Acid,260.3,1.0
+94,Fatty Acid,258.06,1.0
+95,Fatty Acid,259.15,1.0
+96,Fatty Acid,258.54,1.0
+97,Fatty Acid,259.12,1.0
+98,Fatty Acid,256.97,1.0
+99,Fatty Acid,259.63,1.0
+100,Fatty Acid,175.99,2.0
+101,Fatty Acid,162.48,3.0
+102,Fatty Acid,177.37,2.0
+103,Fatty Acid,173.95,2.0
+104,Fatty Acid,175.6,2.0
+105,Fatty Acid,176.31,2.0
+106,Fatty Acid,172.51,2.0
+107,Fatty Acid,165.33,3.0
+108,Fatty Acid,176.23,2.0
+109,Fatty Acid,176.69,2.0
+110,Fatty Acid,177.75,2.0
+111,Fatty Acid,176.01,2.0
+112,Fatty Acid,161.45,3.0
+113,Fatty Acid,174.15,2.0
+114,Fatty Acid,177.7,2.0
+115,Fatty Acid,175.36,2.0
+116,Fatty Acid,108.23,4.0
+117,Fatty Acid,146.8,3.0
+118,Fatty Acid,173.22,2.0
+119,Fatty Acid,171.62,2.0
+120,Fatty Acid,172.26,2.0
+121,Fatty Acid,175.7,2.0
+122,Fatty Acid,164.52,3.0
+123,Fatty Acid,176.54,2.0
+124,Fatty Acid,175.05,2.0
+125,Fatty Acid,172.0,2.0
+126,Fatty Acid,173.58,2.0
+127,Fatty Acid,157.21,3.0
+128,Fatty Acid,175.29,2.0
+129,Fatty Acid,174.36,2.0
+130,Fatty Acid,178.83,2.0
+131,Fatty Acid,176.58,2.0
+132,Fatty Acid,162.67,3.0
+133,Fatty Acid,174.2,2.0
+134,Fatty Acid,175.03,2.0
+135,Fatty Acid,175.83,2.0
+136,Fatty Acid,173.01,2.0
+137,Fatty Acid,155.42,3.0
+138,Fatty Acid,172.11,2.0
+139,Fatty Acid,172.32,2.0
+140,Fatty Acid,176.35,2.0
+141,Fatty Acid,163.08,3.0
+142,Fatty Acid,166.78,2.0
+143,Fatty Acid,148.98,3.0
+144,Fatty Acid,172.96,2.0
+145,Fatty Acid,172.35,2.0
+146,Fatty Acid,167.79,2.0
+147,Fatty Acid,168.71,2.0
+148,Fatty Acid,143.58,3.0
+149,Fatty Acid,169.84,2.0
+150,Fatty Acid,169.36,2.0
+151,Fatty Acid,170.01,2.0
+152,Fatty Acid,173.97,2.0
+153,Fatty Acid,150.47,3.0
+154,Fatty Acid,174.05,2.0
+155,Fatty Acid,176.48,2.0
+156,Fatty Acid,172.38,2.0
+157,Fatty Acid,175.03,2.0
+158,Fatty Acid,164.08,3.0
+159,Fatty Acid,174.9,2.0
+160,Fatty Acid,175.58,2.0
+161,Fatty Acid,173.19,2.0
+162,Fatty Acid,173.75,2.0
+163,Fatty Acid,158.47,3.0
+164,Fatty Acid,172.55,2.0
+165,Fatty Acid,175.05,2.0
+166,Fatty Acid,175.01,2.0
+167,Fatty Acid,176.61,2.0
+168,Fatty Acid,164.13,3.0
+169,Fatty Acid,175.14,2.0
+170,Fatty Acid,175.61,2.0
+171,Fatty Acid,175.39,2.0
+172,Fatty Acid,175.09,2.0
+173,Fatty Acid,174.44,2.0
+174,Fatty Acid,165.03,3.0
+175,Fatty Acid,175.69,2.0
+176,Fatty Acid,175.69,2.0
+177,Fatty Acid,172.3,2.0
+178,Fatty Acid,158.59,3.0
+179,Fatty Acid,138.79,3.0
+180,Fatty Acid,171.51,2.0
+181,Fatty Acid,173.95,2.0
+182,Fatty Acid,167.75,2.0
+183,Fatty Acid,174.94,2.0
+184,Fatty Acid,142.86,3.0
+185,Fatty Acid,169.21,2.0
+186,Fatty Acid,169.64,2.0
+187,Fatty Acid,173.34,2.0
+188,Fatty Acid,168.69,2.0
+189,Fatty Acid,153.54,3.0
+190,Fatty Acid,174.12,2.0
+191,Fatty Acid,173.77,2.0
+192,Fatty Acid,177.7,2.0
+193,Fatty Acid,173.82,2.0
+194,Fatty Acid,163.02,3.0
+195,Fatty Acid,173.36,2.0
+196,Fatty Acid,176.55,2.0
+197,Fatty Acid,176.28,2.0
+198,Fatty Acid,175.85,2.0
+199,Fatty Acid,148.87,3.0
+200,Fatty Acid,156.76,3.0
+201,Fatty Acid,155.55,3.0
+202,Fatty Acid,156.94,3.0
+203,Fatty Acid,154.42,3.0
+204,Fatty Acid,150.37,3.0
+205,Fatty Acid,137.72,3.0
+206,Fatty Acid,158.35,3.0
+207,Fatty Acid,157.46,3.0
+208,Fatty Acid,150.81,3.0
+209,Fatty Acid,151.16,3.0
+210,Fatty Acid,145.99,3.0
+211,Fatty Acid,146.1,3.0
+212,Fatty Acid,154.8,3.0
+213,Fatty Acid,156.37,3.0
+214,Fatty Acid,157.37,3.0
+215,Fatty Acid,144.54,3.0
+216,Fatty Acid,156.36,3.0
+217,Fatty Acid,157.14,3.0
+218,Fatty Acid,156.4,3.0
+219,Fatty Acid,156.78,3.0
+220,Fatty Acid,147.88,3.0
+221,Fatty Acid,156.81,3.0
+222,Fatty Acid,156.59,3.0
+223,Fatty Acid,156.39,3.0
+224,Fatty Acid,158.48,3.0
+225,Fatty Acid,147.96,3.0
+226,Fatty Acid,158.07,3.0
+227,Fatty Acid,158.74,3.0
+228,Fatty Acid,153.41,3.0
+229,Fatty Acid,155.72,3.0
+230,Fatty Acid,137.58,3.0
+231,Fatty Acid,143.97,3.0
+232,Fatty Acid,157.91,3.0
+233,Fatty Acid,150.63,3.0
+234,Fatty Acid,148.75,3.0
+235,Fatty Acid,154.29,3.0
+236,Fatty Acid,136.15,3.0
+237,Fatty Acid,155.91,3.0
+238,Fatty Acid,154.16,3.0
+239,Fatty Acid,155.62,3.0
+240,Fatty Acid,155.68,3.0
+241,Fatty Acid,142.62,3.0
+242,Fatty Acid,158.29,3.0
+243,Fatty Acid,155.77,3.0
+244,Fatty Acid,155.56,3.0
+245,Fatty Acid,155.25,3.0
+246,Fatty Acid,146.74,3.0
+247,Fatty Acid,156.62,3.0
+248,Fatty Acid,158.17,3.0
+249,Fatty Acid,157.79,3.0
+250,Fatty Acid,156.92,3.0
+251,Fatty Acid,143.64,3.0
+252,Fatty Acid,155.59,3.0
+253,Fatty Acid,158.29,3.0
+254,Fatty Acid,152.01,3.0
+255,Fatty Acid,158.16,3.0
+256,Fatty Acid,148.8,3.0
+257,Fatty Acid,157.29,3.0
+258,Fatty Acid,155.15,3.0
+259,Fatty Acid,153.19,3.0
+260,Fatty Acid,157.62,3.0
+261,Fatty Acid,144.82,3.0
+262,Fatty Acid,156.08,3.0
+263,Fatty Acid,152.74,3.0
+264,Fatty Acid,153.99,3.0
+265,Fatty Acid,155.71,3.0
+266,Fatty Acid,158.14,3.0
+267,Fatty Acid,133.57,3.0
+268,Fatty Acid,154.57,3.0
+269,Fatty Acid,156.35,3.0
+270,Fatty Acid,154.91,3.0
+271,Fatty Acid,157.95,3.0
+272,Fatty Acid,142.58,3.0
+273,Fatty Acid,135.25,3.0
+274,Fatty Acid,119.45,4.0
+275,Fatty Acid,2.49,200.0
+276,Fatty Acid,130.68,3.0
+277,Fatty Acid,121.93,4.0
+278,Fatty Acid,156.23,3.0
+279,Fatty Acid,153.1,3.0
+280,Fatty Acid,157.14,3.0
+281,Fatty Acid,158.11,3.0
+282,Fatty Acid,150.16,3.0
+283,Fatty Acid,157.76,3.0
+284,Fatty Acid,155.64,3.0
+285,Fatty Acid,157.77,3.0
+286,Fatty Acid,157.61,3.0
+287,Fatty Acid,133.14,3.0
+288,Fatty Acid,159.41,3.0
+289,Fatty Acid,1.66,300.0
+290,Fatty Acid,159.21,3.0
+291,Fatty Acid,84.55,5.0
+292,Fatty Acid,112.51,4.0
+293,Fatty Acid,132.76,3.0
+294,Fatty Acid,146.05,3.0
+295,Fatty Acid,155.39,3.0
+296,Fatty Acid,157.87,3.0
+297,Fatty Acid,155.88,3.0
+298,Fatty Acid,137.99,3.0
+299,Fatty Acid,153.05,3.0
+300,Fatty Acid,165.64,3.0
+301,Fatty Acid,164.21,3.0
+302,Fatty Acid,159.99,3.0
+303,Fatty Acid,107.72,4.0
+304,Fatty Acid,151.88,3.0
+305,Fatty Acid,159.4,3.0
+306,Fatty Acid,160.51,3.0
+307,Fatty Acid,159.5,3.0
+308,Fatty Acid,145.07,3.0
+309,Fatty Acid,166.83,2.0
+310,Fatty Acid,163.21,3.0
+311,Fatty Acid,143.57,3.0
+312,Fatty Acid,155.47,3.0
+313,Fatty Acid,138.01,3.0
+314,Fatty Acid,140.48,3.0
+315,Fatty Acid,136.56,3.0
+316,Fatty Acid,156.41,3.0
+317,Fatty Acid,162.25,3.0
+318,Fatty Acid,144.01,3.0
+319,Fatty Acid,150.39,3.0
+320,Fatty Acid,157.47,3.0
+321,Fatty Acid,170.68,2.0
+322,Fatty Acid,161.7,3.0
+323,Fatty Acid,137.7,3.0
+324,Fatty Acid,148.64,3.0
+325,Fatty Acid,147.99,3.0
+326,Fatty Acid,163.69,3.0
+327,Fatty Acid,169.01,2.0
+328,Fatty Acid,152.4,3.0
+329,Fatty Acid,162.87,3.0
+330,Fatty Acid,140.25,3.0
+331,Fatty Acid,164.94,3.0
+332,Fatty Acid,157.97,3.0
+333,Fatty Acid,166.75,2.0
+334,Fatty Acid,148.13,3.0
+335,Fatty Acid,165.55,3.0
+336,Fatty Acid,168.85,2.0
+337,Fatty Acid,167.45,2.0
+338,Fatty Acid,167.06,2.0
+339,Fatty Acid,163.31,3.0
+340,Fatty Acid,162.23,3.0
+341,Fatty Acid,156.96,3.0
+342,Fatty Acid,158.89,3.0
+343,Fatty Acid,166.31,3.0
+344,Fatty Acid,108.55,4.0
+345,Fatty Acid,165.08,3.0
+346,Fatty Acid,159.63,3.0
+347,Fatty Acid,151.68,3.0
+348,Fatty Acid,164.8,3.0
+349,Fatty Acid,137.94,3.0
+350,Fatty Acid,155.93,3.0
+351,Fatty Acid,158.24,3.0
+352,Fatty Acid,161.25,3.0
+353,Fatty Acid,166.54,3.0
+354,Fatty Acid,136.67,3.0
+355,Fatty Acid,163.98,3.0
+356,Fatty Acid,161.21,3.0
+357,Fatty Acid,148.59,3.0
+358,Fatty Acid,162.65,3.0
+359,Fatty Acid,143.61,3.0
+360,Fatty Acid,150.9,3.0
+361,Fatty Acid,156.81,3.0
+362,Fatty Acid,158.4,3.0
+363,Fatty Acid,167.47,2.0
+364,Fatty Acid,167.83,2.0
+365,Fatty Acid,147.64,3.0
+366,Fatty Acid,164.63,3.0
+367,Fatty Acid,169.33,2.0
+368,Fatty Acid,167.54,2.0
+369,Fatty Acid,160.05,3.0
+370,Fatty Acid,147.57,3.0
+371,Fatty Acid,166.83,2.0
+372,Fatty Acid,151.35,3.0
+373,Fatty Acid,157.79,3.0
+374,Fatty Acid,168.66,2.0
+375,Fatty Acid,144.54,3.0
+376,Fatty Acid,155.43,3.0
+377,Fatty Acid,172.27,2.0
+378,Fatty Acid,172.36,2.0
+379,Fatty Acid,162.01,3.0
+380,Fatty Acid,144.06,3.0
+381,Fatty Acid,157.0,3.0
+382,Fatty Acid,153.89,3.0
+383,Fatty Acid,159.33,3.0
+384,Fatty Acid,166.82,2.0
+385,Fatty Acid,146.07,3.0
+386,Fatty Acid,148.7,3.0
+387,Fatty Acid,163.79,3.0
+388,Fatty Acid,163.17,3.0
+389,Fatty Acid,162.64,3.0
+390,Fatty Acid,142.95,3.0
+391,Fatty Acid,162.5,3.0
+392,Fatty Acid,160.28,3.0
+393,Fatty Acid,161.52,3.0
+394,Fatty Acid,167.34,2.0
+395,Fatty Acid,160.29,3.0
+396,Fatty Acid,146.23,3.0
+397,Fatty Acid,165.75,3.0
+398,Fatty Acid,170.7,2.0
+399,Fatty Acid,165.61,3.0
+400,Fatty Acid,150.9,3.0
+401,Fatty Acid,131.05,3.0
+402,Fatty Acid,141.91,3.0
+403,Fatty Acid,149.78,3.0
+404,Fatty Acid,138.83,3.0
+405,Fatty Acid,131.86,3.0
+406,Fatty Acid,119.52,4.0
+407,Fatty Acid,149.99,3.0
+408,Fatty Acid,145.33,3.0
+409,Fatty Acid,141.28,3.0
+410,Fatty Acid,139.6,3.0
+411,Fatty Acid,133.34,3.0
+412,Fatty Acid,150.43,3.0
+413,Fatty Acid,147.38,3.0
+414,Fatty Acid,153.97,3.0
+415,Fatty Acid,147.05,3.0
+416,Fatty Acid,135.54,3.0
+417,Fatty Acid,137.96,3.0
+418,Fatty Acid,139.08,3.0
+419,Fatty Acid,140.2,3.0
+420,Fatty Acid,149.68,3.0
+421,Fatty Acid,126.59,3.0
+422,Fatty Acid,146.6,3.0
+423,Fatty Acid,144.81,3.0
+424,Fatty Acid,144.0,3.0
+425,Fatty Acid,153.05,3.0
+426,Fatty Acid,153.63,3.0
+427,Fatty Acid,124.78,4.0
+428,Fatty Acid,139.72,3.0
+429,Fatty Acid,141.14,3.0
+430,Fatty Acid,150.47,3.0
+431,Fatty Acid,150.41,3.0
+432,Fatty Acid,129.87,3.0
+433,Fatty Acid,146.09,3.0
+434,Fatty Acid,144.98,3.0
+435,Fatty Acid,146.12,3.0
+436,Fatty Acid,145.47,3.0
+437,Fatty Acid,135.63,3.0
+438,Fatty Acid,131.13,3.0
+439,Fatty Acid,145.78,3.0
+440,Fatty Acid,139.33,3.0
+441,Fatty Acid,148.81,3.0
+442,Fatty Acid,125.77,3.0
+443,Fatty Acid,144.39,3.0
+444,Fatty Acid,145.33,3.0
+445,Fatty Acid,146.71,3.0
+446,Fatty Acid,147.17,3.0
+447,Fatty Acid,130.42,3.0
+448,Fatty Acid,136.53,3.0
+449,Fatty Acid,145.89,3.0
+450,Fatty Acid,141.81,3.0
+451,Fatty Acid,140.32,3.0
+452,Fatty Acid,126.56,3.0
+453,Fatty Acid,125.98,3.0
+454,Fatty Acid,136.17,3.0
+455,Fatty Acid,146.22,3.0
+456,Fatty Acid,146.21,3.0
+457,Fatty Acid,129.98,3.0
+458,Fatty Acid,143.55,3.0
+459,Fatty Acid,144.01,3.0
+460,Fatty Acid,151.39,3.0
+461,Fatty Acid,145.35,3.0
+462,Fatty Acid,151.19,3.0
+463,Fatty Acid,132.05,3.0
+464,Fatty Acid,148.6,3.0
+465,Fatty Acid,149.6,3.0
+466,Fatty Acid,142.48,3.0
+467,Fatty Acid,150.3,3.0
+468,Fatty Acid,138.3,3.0
+469,Fatty Acid,152.54,3.0
+470,Fatty Acid,142.89,3.0
+471,Fatty Acid,149.35,3.0
+472,Fatty Acid,150.44,3.0
+473,Fatty Acid,137.51,3.0
+474,Fatty Acid,139.44,3.0
+475,Fatty Acid,137.03,3.0
+476,Fatty Acid,142.6,3.0
+477,Fatty Acid,140.83,3.0
+478,Fatty Acid,136.05,3.0
+479,Fatty Acid,150.02,3.0
+480,Fatty Acid,152.59,3.0
+481,Fatty Acid,152.55,3.0
+482,Fatty Acid,153.85,3.0
+483,Fatty Acid,141.66,3.0
+484,Fatty Acid,155.52,3.0
+485,Fatty Acid,151.58,3.0
+486,Fatty Acid,143.53,3.0
+487,Fatty Acid,145.92,3.0
+488,Fatty Acid,127.54,3.0
+489,Fatty Acid,148.7,3.0
+490,Fatty Acid,145.47,3.0
+491,Fatty Acid,155.22,3.0
+492,Fatty Acid,152.93,3.0
+493,Fatty Acid,153.62,3.0
+494,Fatty Acid,147.48,3.0
+495,Fatty Acid,153.04,3.0
+496,Fatty Acid,155.61,3.0
+497,Fatty Acid,156.46,3.0
+498,Fatty Acid,151.99,3.0
+499,Fatty Acid,141.33,3.0
+0,P-Aminostyrene,4.68,213.0
+1,P-Aminostyrene,4.83,207.0
+2,P-Aminostyrene,4.78,209.0
+3,P-Aminostyrene,4.93,202.0
+4,P-Aminostyrene,4.47,223.0
+5,P-Aminostyrene,4.82,207.0
+6,P-Aminostyrene,4.19,238.0
+7,P-Aminostyrene,10.68,93.0
+8,P-Aminostyrene,5.99,166.0
+9,P-Aminostyrene,7.18,139.0
+10,P-Aminostyrene,7.81,127.0
+11,P-Aminostyrene,6.12,163.0
+12,P-Aminostyrene,4.55,219.0
+13,P-Aminostyrene,4.87,205.0
+14,P-Aminostyrene,4.2,237.0
+15,P-Aminostyrene,12.42,80.0
+16,P-Aminostyrene,4.35,229.0
+17,P-Aminostyrene,4.11,243.0
+18,P-Aminostyrene,4.21,237.0
+19,P-Aminostyrene,4.35,229.0
+20,P-Aminostyrene,4.55,219.0
+21,P-Aminostyrene,4.5,222.0
+22,P-Aminostyrene,11.26,88.0
+23,P-Aminostyrene,6.84,146.0
+24,P-Aminostyrene,4.29,232.0
+25,P-Aminostyrene,6.28,159.0
+26,P-Aminostyrene,7.62,131.0
+27,P-Aminostyrene,6.1,164.0
+28,P-Aminostyrene,4.31,231.0
+29,P-Aminostyrene,8.14,122.0
+30,P-Aminostyrene,10.76,92.0
+31,P-Aminostyrene,4.43,225.0
+32,P-Aminostyrene,9.06,110.0
+33,P-Aminostyrene,7.69,129.0
+34,P-Aminostyrene,4.27,234.0
+35,P-Aminostyrene,3.92,255.0
+36,P-Aminostyrene,5.84,171.0
+37,P-Aminostyrene,9.16,109.0
+38,P-Aminostyrene,3.92,255.0
+39,P-Aminostyrene,6.7,149.0
+40,P-Aminostyrene,4.15,241.0
+41,P-Aminostyrene,4.07,245.0
+42,P-Aminostyrene,4.02,248.0
+43,P-Aminostyrene,4.52,221.0
+44,P-Aminostyrene,4.01,249.0
+45,P-Aminostyrene,4.29,233.0
+46,P-Aminostyrene,4.12,242.0
+47,P-Aminostyrene,9.75,102.0
+48,P-Aminostyrene,9.92,100.0
+49,P-Aminostyrene,4.72,211.0
+50,P-Aminostyrene,8.59,116.0
+51,P-Aminostyrene,4.38,228.0
+52,P-Aminostyrene,6.55,152.0
+53,P-Aminostyrene,4.18,239.0
+54,P-Aminostyrene,4.68,213.0
+55,P-Aminostyrene,4.26,234.0
+56,P-Aminostyrene,4.02,248.0
+57,P-Aminostyrene,3.96,252.0
+58,P-Aminostyrene,4.44,225.0
+59,P-Aminostyrene,9.98,100.0
+60,P-Aminostyrene,4.02,248.0
+61,P-Aminostyrene,5.15,194.0
+62,P-Aminostyrene,3.73,268.0
+63,P-Aminostyrene,3.63,275.0
+64,P-Aminostyrene,9.83,101.0
+65,P-Aminostyrene,4.02,248.0
+66,P-Aminostyrene,3.81,262.0
+67,P-Aminostyrene,4.44,225.0
+68,P-Aminostyrene,3.45,289.0
+69,P-Aminostyrene,7.41,134.0
+70,P-Aminostyrene,4.26,234.0
+71,P-Aminostyrene,10.41,96.0
+72,P-Aminostyrene,4.28,233.0
+73,P-Aminostyrene,9.99,100.0
+74,P-Aminostyrene,4.2,237.0
+75,P-Aminostyrene,6.66,150.0
+76,P-Aminostyrene,4.5,222.0
+77,P-Aminostyrene,7.96,125.0
+78,P-Aminostyrene,8.34,119.0
+79,P-Aminostyrene,9.54,104.0
+80,P-Aminostyrene,4.33,230.0
+81,P-Aminostyrene,4.37,228.0
+82,P-Aminostyrene,5.05,198.0
+83,P-Aminostyrene,11.7,85.0
+84,P-Aminostyrene,4.89,204.0
+85,P-Aminostyrene,4.57,218.0
+86,P-Aminostyrene,5.53,180.0
+87,P-Aminostyrene,10.95,91.0
+88,P-Aminostyrene,7.78,128.0
+89,P-Aminostyrene,7.12,140.0
+90,P-Aminostyrene,9.19,108.0
+91,P-Aminostyrene,4.95,202.0
+92,P-Aminostyrene,9.17,109.0
+93,P-Aminostyrene,8.19,122.0
+94,P-Aminostyrene,4.91,203.0
+95,P-Aminostyrene,9.38,106.0
+96,P-Aminostyrene,4.6,217.0
+97,P-Aminostyrene,5.65,177.0
+98,P-Aminostyrene,4.81,207.0
+99,P-Aminostyrene,7.33,136.0

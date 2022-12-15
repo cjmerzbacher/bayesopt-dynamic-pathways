@@ -12,6 +12,7 @@ This code is written in Python 3.x and uses the following packages:
 - Hyperopt
 - Numpy
 - Scikits.odes
+- pyDOE
 
 For replicating the benchmarks, you will need:
 
@@ -33,14 +34,14 @@ And for replicating figures, you will need:
 3. **glucaric_acid_sim.ipynb** Runs the glucaric acid model and kinetic perturbation experiments.
 4. **fatty_acid_sim.ipynb** Runs the fatty acid model and parameter robustness experiments.
 5. **p_aminostyrene_sim.ipynb** Runs the p-aminostyrene model and chemical perturbation experiments.
-6. model_tuning.ipynb
+6. **model_tuning_supp.ipynb** Runs model tuning and timing experiments.
 
 ## Visualization Notebooks
 1. **toy_model_viz.ipynb** Creates contour plots of landscapes for Figure 1 and benchmarking visualizations.
 2. **glucaric_acid_viz.ipynb** Plots sample run, perturbation experiment results, and dose-response curve plots (Figure 2).
 3. **fatty_acid_viz.ipynb** Plots sample run and grid search landscapes (Figure 3).
-4. p_aminostyrene_viz.ipynb
-5. supplementary_viz.ipynb 
+4. **p_aminostyrene_viz.ipynb** Plots sample run and chemical robustness experiment results (Figure 4).
+5. **supplementary_viz.ipynb** Creates all supplementary figures.
 
 ## Data Files
 ### Bayesian optimization for joint optimization of circuit architecture and parameters 
@@ -74,13 +75,14 @@ And for replicating figures, you will need:
 2. **toy_model_single_landscape_upstream_repression.png** Contour plot of toy model landscape
 3. **toy_model_single_landscape_downstream_activation.png** Contour plot of toy model landscape
 4. **toy_model_single_landscape_dual_control.png** Contour plot of toy model landscape
+5. **toy_model_benchmarking.png** Benchmarking bar plot.
 
 ### Robustness of control circuits to uncertainty in enzyme kinetic parameters
 1. **glucaric_acid_sample_run.png** Sample run of glucaric acid model
 2. **glucaric_acid_objective_fn_strip.png** Strip plot of perturbed system objective functions compared to background.
 3. **glucaric_acid_optimal_arch_stacked_bar.png** Stacked bar of optimal architectures.
-4. glucaric_acid_dose_response_curves.png
-5. glucaric_acid_parameter_distributions.png
+4. **glucaric_acid_dose_response_curves.png** Mean dose-response curves for dual control circuit.
+5. **glucaric_acid_parameter_distributions.png** Parameter distributions across optimal circuit results.
 
 ### Consistency of optima across flat objective function landscapes
 1. **fatty_acid_sample_run.png** Sample run of fatty acid model
@@ -95,10 +97,10 @@ And for replicating figures, you will need:
 3. **p_aminostyrene_parameter_pca.png** Scatter plot of PCA values for perturbed vs. background systems.
 
 ### Supplementary Figures
-1. fatty_acid_objective_fn_strip.png
-2. fatty_acid_coeff_var_barplot.png
-3. model_hyperparameter_tuning.png
-4. model_timing_barplot.png
+1. **supp_fatty_acid_objective_fn_strip.png** Strip plot of objective functions achieved by circuit, fatty acid model.
+2. **supp_fatty_acid_coeff_var_barplot.png** Bar plot of coefficient of variation by circuit, fatty acid model.
+3.**supp_model_hyperparameter_tuning.png** Results of manually tuning hyperparameter values
+4. **supp_model_timing_barplot.png** Timing results of all models.
 
 ## Citation
 

@@ -1,0 +1,240 @@
+100%|██████████| 1000/1000 [03:33<00:00,  4.68trial/s, best loss: 0.006934103261603262]
+100%|██████████| 1000/1000 [03:27<00:00,  4.83trial/s, best loss: 0.012280711229971033]
+100%|██████████| 1000/1000 [03:29<00:00,  4.78trial/s, best loss: 0.006624631362699007]
+100%|██████████| 1000/1000 [03:22<00:00,  4.93trial/s, best loss: 0.009364303300606561]
+  5%|▍         | 49/1000 [00:07<02:20,  6.79trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 711.066, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:43<00:00,  4.47trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [03:27<00:00,  4.82trial/s, best loss: 0.013357935722171465]
+ 18%|█▊        | 177/1000 [00:38<02:54,  4.71trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 807.83, mxstep steps taken before reaching tout.
+
+ 91%|█████████ | 909/1000 [03:34<00:22,  4.08trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 865.85, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:58<00:00,  4.19trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [01:33<00:00, 10.68trial/s, best loss: 0.0003571908965930069]
+100%|██████████| 1000/1000 [02:46<00:00,  5.99trial/s, best loss: 0.008622492976708073]
+100%|██████████| 1000/1000 [02:19<00:00,  7.18trial/s, best loss: 0.005611986039711247]
+100%|██████████| 1000/1000 [02:07<00:00,  7.81trial/s, best loss: 0.0030647925445792023]
+100%|██████████| 1000/1000 [02:43<00:00,  6.12trial/s, best loss: 0.0020239388440645117]
+100%|██████████| 1000/1000 [03:39<00:00,  4.55trial/s, best loss: 0.009961884367265039]
+100%|██████████| 1000/1000 [03:25<00:00,  4.87trial/s, best loss: 0.0097470580759784] 
+  3%|▎         | 34/1000 [00:06<02:49,  5.71trial/s, best loss: 0.0]                
+[CVODE ERROR]  CVode
+  At t = 676.72, mxstep steps taken before reaching tout.
+
+  7%|▋         | 69/1000 [00:14<04:34,  3.39trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 693.172, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:57<00:00,  4.20trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [01:20<00:00, 12.42trial/s, best loss: 0.001698890305770522]
+100%|██████████| 1000/1000 [03:49<00:00,  4.35trial/s, best loss: 0.008331642328939508]
+ 31%|███       | 311/1000 [01:08<01:57,  5.86trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 741.723, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:03<00:00,  4.11trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [03:57<00:00,  4.21trial/s, best loss: 0.006948533350754247]
+100%|██████████| 1000/1000 [03:49<00:00,  4.35trial/s, best loss: 0.010347517947164752]
+100%|██████████| 1000/1000 [03:39<00:00,  4.55trial/s, best loss: 0.007422203708965814]
+100%|██████████| 1000/1000 [03:42<00:00,  4.50trial/s, best loss: 0.011037069950079803]
+100%|██████████| 1000/1000 [01:28<00:00, 11.26trial/s, best loss: 0.0029066915438723958]
+100%|██████████| 1000/1000 [02:26<00:00,  6.84trial/s, best loss: 0.0031989630133482166]
+  6%|▌         | 60/1000 [00:09<02:18,  6.78trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 846.46, mxstep steps taken before reaching tout.
+
+ 11%|█         | 107/1000 [00:20<02:10,  6.86trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 533.076, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:52<00:00,  4.29trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [02:39<00:00,  6.28trial/s, best loss: 0.0046919688989074245]
+100%|██████████| 1000/1000 [02:11<00:00,  7.62trial/s, best loss: 0.005644825878400841]
+100%|██████████| 1000/1000 [02:44<00:00,  6.10trial/s, best loss: 0.003251917713394946]
+100%|██████████| 1000/1000 [03:51<00:00,  4.31trial/s, best loss: 0.007339969378188899]
+100%|██████████| 1000/1000 [02:02<00:00,  8.14trial/s, best loss: 0.0002882184329872865]
+100%|██████████| 1000/1000 [01:32<00:00, 10.76trial/s, best loss: 0.0020573805077159528]
+100%|██████████| 1000/1000 [03:45<00:00,  4.43trial/s, best loss: 0.007047789807220223]
+100%|██████████| 1000/1000 [01:50<00:00,  9.06trial/s, best loss: 0.00021865383758053563]
+100%|██████████| 1000/1000 [02:09<00:00,  7.69trial/s, best loss: 0.005135165763997391]
+ 38%|███▊      | 381/1000 [01:22<02:05,  4.92trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 676.173, mxstep steps taken before reaching tout.
+
+ 71%|███████   | 710/1000 [02:37<00:59,  4.85trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 813.147, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:54<00:00,  4.27trial/s, best loss: 0.0]
+ 16%|█▌        | 157/1000 [00:30<03:13,  4.37trial/s, best loss: 0.0]                
+[CVODE ERROR]  CVode
+  At t = 830.221, mxstep steps taken before reaching tout.
+
+ 26%|██▌       | 258/1000 [00:54<02:21,  5.25trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 762.299, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:15<00:00,  3.92trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [02:51<00:00,  5.84trial/s, best loss: 0.00592626889597321]
+100%|██████████| 1000/1000 [01:49<00:00,  9.16trial/s, best loss: 0.0031932367013874207]
+ 33%|███▎      | 329/1000 [01:15<01:47,  6.25trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 754.083, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:15<00:00,  3.92trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [02:29<00:00,  6.70trial/s, best loss: 0.0032030319714790455]
+100%|██████████| 1000/1000 [04:01<00:00,  4.15trial/s, best loss: 0.007037572466815218]
+  6%|▋         | 63/1000 [00:12<03:07,  5.00trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 621.304, mxstep steps taken before reaching tout.
+
+ 54%|█████▍    | 543/1000 [02:02<01:33,  4.88trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 844.127, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:05<00:00,  4.07trial/s, best loss: 0.0]
+ 16%|█▋        | 164/1000 [00:32<03:20,  4.17trial/s, best loss: 0.0]                
+[CVODE ERROR]  CVode
+  At t = 828.802, mxstep steps taken before reaching tout.
+
+ 31%|███       | 309/1000 [01:07<02:37,  4.39trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 857.886, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:08<00:00,  4.02trial/s, best loss: 0.0]
+ 32%|███▏      | 317/1000 [01:02<01:43,  6.59trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 736.301, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:41<00:00,  4.52trial/s, best loss: 0.0]
+  8%|▊         | 79/1000 [00:17<02:49,  5.43trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 778.474, mxstep steps taken before reaching tout.
+
+ 96%|█████████▋| 964/1000 [03:56<00:08,  4.34trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 764.659, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:09<00:00,  4.01trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [03:53<00:00,  4.29trial/s, best loss: 0.011893619775966275]
+100%|██████████| 1000/1000 [04:02<00:00,  4.12trial/s, best loss: 0.00728772803109678]
+100%|██████████| 1000/1000 [01:42<00:00,  9.75trial/s, best loss: 0.0023194010842876403]
+100%|██████████| 1000/1000 [01:40<00:00,  9.92trial/s, best loss: 0.003712494213951648]
+100%|██████████| 1000/1000 [03:31<00:00,  4.72trial/s, best loss: 0.001799152584009944]
+100%|██████████| 1000/1000 [01:56<00:00,  8.59trial/s, best loss: 0.003337413728193939]
+100%|██████████| 1000/1000 [03:48<00:00,  4.38trial/s, best loss: 0.007966921943464648]
+100%|██████████| 1000/1000 [02:32<00:00,  6.55trial/s, best loss: 0.003690789441505094]
+100%|██████████| 1000/1000 [03:59<00:00,  4.18trial/s, best loss: 0.01002417048289467]
+100%|██████████| 1000/1000 [03:33<00:00,  4.68trial/s, best loss: 0.009303347683865641]
+100%|██████████| 1000/1000 [03:54<00:00,  4.26trial/s, best loss: 0.010798693696123832]
+  6%|▌         | 59/1000 [00:11<02:11,  7.16trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 834.371, mxstep steps taken before reaching tout.
+
+ 77%|███████▋  | 766/1000 [02:59<00:48,  4.79trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 689.304, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:08<00:00,  4.02trial/s, best loss: 0.0]
+  2%|▏         | 23/1000 [00:03<02:05,  7.79trial/s, best loss: 0.058468340371637624]
+[CVODE ERROR]  CVode
+  At t = 715.057, mxstep steps taken before reaching tout.
+
+ 79%|███████▉  | 793/1000 [03:14<00:50,  4.11trial/s, best loss: 0.0]                
+[CVODE ERROR]  CVode
+  At t = 811.762, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:12<00:00,  3.96trial/s, best loss: 0.0]
+  2%|▏         | 17/1000 [00:02<03:09,  5.18trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 835.364, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:45<00:00,  4.44trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [01:40<00:00,  9.98trial/s, best loss: 0.00283461675679435] 
+100%|██████████| 1000/1000 [04:08<00:00,  4.02trial/s, best loss: 0.013291769384927495]
+100%|██████████| 1000/1000 [03:14<00:00,  5.15trial/s, best loss: 0.00019896490383160975]
+100%|██████████| 1000/1000 [04:28<00:00,  3.73trial/s, best loss: 0.007843581276219515]
+ 56%|█████▌    | 557/1000 [02:26<01:31,  4.83trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 710.574, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:35<00:00,  3.63trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [01:41<00:00,  9.83trial/s, best loss: 0.0014786467460882577]
+ 71%|███████   | 710/1000 [02:49<01:03,  4.55trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 750.863, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [04:08<00:00,  4.02trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [04:22<00:00,  3.81trial/s, best loss: 0.007667540800957747]
+ 19%|█▊        | 186/1000 [00:40<02:49,  4.82trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 780.016, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:45<00:00,  4.44trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [04:49<00:00,  3.45trial/s, best loss: 0.008011539390210957]
+100%|██████████| 1000/1000 [02:14<00:00,  7.41trial/s, best loss: 0.00047606529046866417]
+100%|██████████| 1000/1000 [03:54<00:00,  4.26trial/s, best loss: 0.00658153833828893]
+100%|██████████| 1000/1000 [01:36<00:00, 10.41trial/s, best loss: 0.0026973224671905747]
+ 10%|█         | 105/1000 [00:15<02:55,  5.11trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 770.612, mxstep steps taken before reaching tout.
+
+ 69%|██████▉   | 688/1000 [02:27<01:03,  4.92trial/s, best loss: 0.0]
+[CVODE ERROR]  CVode
+  At t = 786.921, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:53<00:00,  4.28trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [01:40<00:00,  9.99trial/s, best loss: 0.003696523067205509]
+ 55%|█████▌    | 552/1000 [02:03<01:18,  5.72trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 516.712, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:57<00:00,  4.20trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [02:30<00:00,  6.66trial/s, best loss: 0.0019561797044806727]
+100%|██████████| 1000/1000 [03:42<00:00,  4.50trial/s, best loss: 0.010693412476022315]
+100%|██████████| 1000/1000 [02:05<00:00,  7.96trial/s, best loss: 0.0030122795192087572]
+100%|██████████| 1000/1000 [01:59<00:00,  8.34trial/s, best loss: 0.0017768166280486095]
+100%|██████████| 1000/1000 [01:44<00:00,  9.54trial/s, best loss: 0.003285135337125868]
+ 35%|███▌      | 352/1000 [01:13<02:10,  4.98trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 572.305, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:50<00:00,  4.33trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [03:48<00:00,  4.37trial/s, best loss: 0.0075823385746299835]
+100%|██████████| 1000/1000 [03:18<00:00,  5.05trial/s, best loss: 0.009282413293128473]
+100%|██████████| 1000/1000 [01:25<00:00, 11.70trial/s, best loss: 0.0028395292130649484]
+100%|██████████| 1000/1000 [03:24<00:00,  4.89trial/s, best loss: 0.005802654986622418]
+100%|██████████| 1000/1000 [03:38<00:00,  4.57trial/s, best loss: 0.009097486968147307]
+ 97%|█████████▋| 969/1000 [02:51<00:06,  4.80trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 813.579, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:00<00:00,  5.53trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [01:31<00:00, 10.95trial/s, best loss: 0.003441366178727739]
+100%|██████████| 1000/1000 [02:08<00:00,  7.78trial/s, best loss: 0.0057958471554479685]
+100%|██████████| 1000/1000 [02:20<00:00,  7.12trial/s, best loss: 0.0017183283028725026]
+100%|██████████| 1000/1000 [01:48<00:00,  9.19trial/s, best loss: 0.0034938554876665453]
+ 11%|█         | 107/1000 [00:17<02:25,  6.14trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 838.575, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:22<00:00,  4.95trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [01:49<00:00,  9.17trial/s, best loss: 0.0035622954253939155]
+100%|██████████| 1000/1000 [02:02<00:00,  8.19trial/s, best loss: 0.00405488498254716] 
+100%|██████████| 1000/1000 [03:23<00:00,  4.91trial/s, best loss: 0.011695498236661321]
+100%|██████████| 1000/1000 [01:46<00:00,  9.38trial/s, best loss: 0.003403065824730736]
+ 68%|██████▊   | 685/1000 [02:22<00:56,  5.60trial/s, best loss: 0.0]                 
+[CVODE ERROR]  CVode
+  At t = 789.429, mxstep steps taken before reaching tout.
+
+100%|██████████| 1000/1000 [03:37<00:00,  4.60trial/s, best loss: 0.0]
+100%|██████████| 1000/1000 [02:57<00:00,  5.65trial/s, best loss: 0.003443015629137411]
+100%|██████████| 1000/1000 [03:27<00:00,  4.81trial/s, best loss: 0.009829010042105804]
+100%|██████████| 1000/1000 [02:16<00:00,  7.33trial/s, best loss: 0.0033441793548153725]
