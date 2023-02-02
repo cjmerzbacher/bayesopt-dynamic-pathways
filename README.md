@@ -2,7 +2,7 @@
 
 Python code for optimizing genetic control architectures and parameter values simultaneously using Hyperopt. Data and figure files under the Github size limit are included; large data files are listed and available upon request. This code accompanies the recent paper:
 
-*A machine learning approach for optimization of complex biological circuits across time scales.* by Charlotte Merzbacher, Oisin MacAodha, and Diego Oyarzún (2023).
+*A machine learning approach for optimization of complex biological circuits across time scales.* by Charlotte Merzbacher, Oisin Mac Aodha, and Diego Oyarzún (2023).
 
 ## Requirements
 
@@ -46,7 +46,7 @@ And for replicating figures, you will need:
 ## Data Files
 ### Bayesian optimization for joint optimization of circuit architecture and parameters 
 1. **toy_model_sample_run.csv** Contains the results of 1 500-iteration sample run of the toy model
-2. **toy_model_background.csv** Contains the results of 100 500-iteration runs of the toy model
+2. **toy_model_background_bayesopt.csv** Contains the results of 100 500-iteration runs of the toy model for benchmarking.
 3. **toy_model_landscapes_grid_search.csv** Contains the results of a 10x10 grid search of each of the architectures for contour landscape construction.
 4. **toy_model_random_sampling_1000samples.csv** Triplicate results of 1000 random samples from parameter space (across all 4 architectures)
 5. **toy_model_gradient_based.csv** 100 replicates of gradient-based solver for each of the 4 architectures
@@ -106,4 +106,4 @@ And for replicating figures, you will need:
 
 If you use these methods and this code in your own research, please cite our paper:
 
-*A machine learning approach for optimization of complex biological circuits across time scales.* by Charlotte Merzbacher, Oisin MacAodha, and Diego Oyarzún (2023).
+*A machine learning approach for optimization of complex biological circuits across time scales.* by Charlotte Merzbacher, Oisin Mac Aodha, and Diego Oyarzún (2023).
