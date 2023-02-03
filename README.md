@@ -2,7 +2,7 @@
 
 Python code for optimizing genetic control architectures and parameter values simultaneously using Hyperopt. Data and figure files under the Github size limit are included; large data files are listed and available upon request. This code accompanies the recent paper:
 
-*A machine learning approach for optimization of complex biological circuits across time scales.* by Charlotte Merzbacher, Oisin Mac Aodha, and Diego Oyarzún (2023).
+*A machine learning approach for optimization of biological circuits across scales.* by Charlotte Merzbacher, Oisin Mac Aodha, and Diego Oyarzún (2023).
 
 ## Requirements
 
