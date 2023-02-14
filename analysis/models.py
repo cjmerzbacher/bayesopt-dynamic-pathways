@@ -110,7 +110,7 @@ def fa_openloop(t, y, ydot, params):
     r_lac = params
     ydot[0] = tesA*k_tesA - mu*FFA
     ydot[1] = r_lac - mu*tesA
-    ydot[2] = tesA*k_tesA 
+    ydot[2] = tesA*k_tesA
     ydot[3] = r_lac
 
 def fa_openloopintermediate(t, y, ydot, params):
@@ -122,7 +122,7 @@ def fa_openloopintermediate(t, y, ydot, params):
     ydot[0] = tesA * k_tesA - mu * FFA - CAR * k_car
     ydot[1] = r_lac - mu*tesA
     ydot[2] = r_bad - mu*CAR
-    ydot[3] = tesA * k_tesA - CAR * k_car
+    ydot[3] =  tesA * k_tesA - CAR * k_car
     ydot[4] = r_bad + r_lac
 
 def fa_negativegeneloop(t, y, ydot, params):
@@ -134,7 +134,7 @@ def fa_negativegeneloop(t, y, ydot, params):
     ydot[0] = tesA * k_tesA - mu * FFA
     ydot[1] = promoteractivation(tetR, r_tl, kd_tetR) - mu * tesA
     ydot[2] = promoteractivation(tetR, r_tl_tetR, kd_tetR) - mu * tetR
-    ydot[3] = tesA * k_tesA
+    ydot[3] =  tesA * k_tesA
     ydot[4] = promoteractivation(tetR, r_tl, kd_tetR) + promoteractivation(tetR, r_tl_tetR, kd_tetR)
 
 def fa_negativemetabolicloop(t, y, ydot, params):

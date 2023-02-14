@@ -32,14 +32,14 @@ And for replicating figures, you will need:
 1. **toy_model_sim.ipynb** Runs a sample simulation and 100 background simulations. 
 2. **benchmarking_methods.ipynb** Runs benchmarking methods (random sampling, grid search, gradient-based optimization, genetic algorithm) on toy model.
 3. **glucaric_acid_sim.ipynb** Runs the glucaric acid model and kinetic perturbation experiments.
-4. **fatty_acid_sim.ipynb** Runs the fatty acid model and parameter robustness experiments.
+4. **fatty_acid_sim.ipynb** Runs the fatty acid model and objective function experiments.
 5. **p_aminostyrene_sim.ipynb** Runs the p-aminostyrene model and chemical perturbation experiments.
 6. **model_tuning_supp.ipynb** Runs model tuning and timing experiments.
 
 ## Visualization Notebooks
 1. **toy_model_viz.ipynb** Creates contour plots of landscapes for Figure 1 and benchmarking visualizations.
 2. **glucaric_acid_viz.ipynb** Plots sample run, perturbation experiment results, and dose-response curve plots (Figure 2).
-3. **fatty_acid_viz.ipynb** Plots sample run and grid search landscapes (Figure 3).
+3. **fatty_acid_viz.ipynb** Plots sample run and objective function Pareto curves (Figure 3).
 4. **p_aminostyrene_viz.ipynb** Plots sample run and chemical robustness experiment results (Figure 4).
 5. **supplementary_viz.ipynb** Creates all supplementary figures.
 
@@ -59,10 +59,9 @@ And for replicating figures, you will need:
 4. **glucaric_acid_kinetic_perturbation.csv** [Large file, not on GitHub] Kinetic perturbation results across four architectures, 100 perturbations.
 
 ### Consistency of optima across flat objective function landscapes
-1. **fatty_acid_sample_run.csv** Contains the results of 1 1000-iteration sample run of the fatty acid model
-2. **fatty_acid_background.csv** Contains the results of 100 1000-iteration runs of the fatty acid model
-3. **fatty_acid_singlearch.csv** Contains the results of 100 1000-iteration runs of the fatty acid model, with its architecture space restricted to a single control architecture at a time
-4. **fatty_acid_landscapes_grid_search.csv** Contains the results of a 10x10 grid search of each of the architectures for contour landscape construction.
+1. **fatty_acid_sample_run_production_burden.csv** Contains the results of 1 1000-iteration sample run of the fatty acid model with the production-burden objective function
+2. **fatty_acid_pareto_curve_speed_accuracy.csv** Contains the optimal results for scanning alpha values for the speed-accuracy objective function.
+
 
 ### Scalability of method to high-complexity large systems
 1. **p_aminostyrene_sample_run.csv** Contains the results of 1 1000-iteration sample run of the p-aminostyrene model
