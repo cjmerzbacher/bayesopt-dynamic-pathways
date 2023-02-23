@@ -58,7 +58,7 @@ And for replicating figures, you will need:
 3. **glucaric_acid_background_singlearch.csv** Contains the results of 100 1000-iteration runs of the glucaric acid model, with its architecture space restricted to a single control architecture at a time
 4. **glucaric_acid_kinetic_perturbation.csv** [Large file, not on GitHub] Kinetic perturbation results across four architectures, 100 perturbations.
 
-### Consistency of optima across flat objective function landscapes
+### Exploration of alternative objective functions
 1. **fatty_acid_sample_run_production_burden.csv** Contains the results of 1 1000-iteration sample run of the fatty acid model with the production-burden objective function
 2. **fatty_acid_tradeoff_curve_speed_accuracy.csv** Contains the optimal results for scanning alpha values for the speed-accuracy objective function.
 
@@ -83,7 +83,7 @@ And for replicating figures, you will need:
 4. **glucaric_acid_dose_response_curves.png** Mean dose-response curves for dual control circuit.
 5. **glucaric_acid_parameter_distributions.png** Parameter distributions across optimal circuit results.
 
-### Consistency of optima across flat objective function landscapes
+### Exploration of alternative objective functions
 1. **fatty_acid_sample_run.png** Sample run of fatty acid model
 2. **fatty_acid_optimality_curve.png** Tradeoff optimality curve based on speed-accuracy objective function
 3. **fatty_acid_trajectories.png** Sample FFA trajectories from points on optimality curve
