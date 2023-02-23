@@ -60,7 +60,7 @@ And for replicating figures, you will need:
 
 ### Consistency of optima across flat objective function landscapes
 1. **fatty_acid_sample_run_production_burden.csv** Contains the results of 1 1000-iteration sample run of the fatty acid model with the production-burden objective function
-2. **fatty_acid_pareto_curve_speed_accuracy.csv** Contains the optimal results for scanning alpha values for the speed-accuracy objective function.
+2. **fatty_acid_tradeoff_curve_speed_accuracy.csv** Contains the optimal results for scanning alpha values for the speed-accuracy objective function.
 
 
 ### Scalability of method to high-complexity large systems
@@ -85,10 +85,8 @@ And for replicating figures, you will need:
 
 ### Consistency of optima across flat objective function landscapes
 1. **fatty_acid_sample_run.png** Sample run of fatty acid model
-2. **fatty_acid_single_landscape_negative_metabolic_loop.png** Contour plot with marginal parameter distribution histograms
-3. **fatty_acid_single_landscape_negative_gene_loop.png** Contour plot with marginal parameter distribution histograms
-4. **fatty_acid_single_landscape_layered_negative_metabolic_loop.png** Contour plot with marginal parameter distribution histograms
-5. **fatty_acid_single_landscape_open_loop_intermediate.png** Contour plot with marginal parameter distribution histograms
+2. **fatty_acid_optimality_curve.png** Tradeoff optimality curve based on speed-accuracy objective function
+3. **fatty_acid_trajectories.png** Sample FFA trajectories from points on optimality curve
 
 ### Scalability of method to high-complexity large systems
 1. **p_aminostyrene_sample_run.png** Sample run of p-aminostyrene model
