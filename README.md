@@ -1,8 +1,8 @@
-# Bayesian optimization for dynamic pathway engineering
+# Bayesian optimization for design of multiscale biological circuits.
 
 Python code for optimizing genetic control architectures and parameter values simultaneously using Hyperopt. Data and figure files under the Github size limit are included; large data files are listed and available upon request. This code accompanies the recent paper:
 
-*A machine learning approach for optimization of complex biological circuits across time scales.* by Charlotte Merzbacher, Oisin Mac Aodha, and Diego Oyarzún (2023).
+*Bayesian optimization for design of multiscale biological circuits.* by Charlotte Merzbacher, Oisin Mac Aodha, and Diego Oyarzún (2023).
 
 ## Requirements
 
@@ -103,4 +103,4 @@ And for replicating figures, you will need:
 
 If you use these methods and this code in your own research, please cite our paper:
 
-*A machine learning approach for optimization of complex biological circuits across time scales.* by Charlotte Merzbacher, Oisin Mac Aodha, and Diego Oyarzún (2023).
+*Bayesian optimization for design of multiscale biological circuits.* ACS Synthetic Biology. Charlotte Merzbacher, Oisin Mac Aodha, and Diego Oyarzún (2023).
